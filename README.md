@@ -32,11 +32,24 @@ Currently, I am working on a **project management web app** built with **React**
 
 #### 📅 Number of Commits
 
-To display the number of commits in a repository, we can use the GitHub API to fetch this information dynamically. Here’s a basic example:
+You can track the number of commits dynamically with Shields.io. This badge will show the number of commits in a repository:
 
-```javascript
-fetch('https://api.github.com/repos/tiago-laibacas/your-repo/commits')
-  .then(response => response.json())
-  .then(commits => {
-    console.log(`Total commits: ${commits.length}`);
-  });
+![Commits](https://img.shields.io/github/commit-activity/m/tiago-laibacas/your-repo?style=flat-square)
+
+#### 🕒 Last Commit
+
+Shields.io also allows you to display the time since the last commit. This will show the last commit date:
+
+![Last Commit](https://img.shields.io/github/last-commit/tiago-laibacas/your-repo?style=flat-square)
+
+#### 📈 Most Used Languages
+
+Shields.io provides a dynamic badge for the top language used in your repositories:
+
+![Top Language](https://img.shields.io/github/languages/top/tiago-laibacas/your-repo?style=flat-square)
+
+### 📞 Contact Me
+
+- 📧 Email: [tiago.abreu.laibacas@example.com](mailto:tiago.abreu.laibacas@example.com)
+- 🌐 LinkedIn: [Tiago LinkedIn](https://www.linkedin.com/in/tiago-laibacas/)
+- 🐙 GitHub: [Tiago GitHub](https://github.com/tiago-laibacas)
