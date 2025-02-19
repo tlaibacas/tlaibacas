@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Tiago!
 
-<!--
-**tlaibacas/tlaibacas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const getAge = (birthDate) => {
+  const today = new Date();
+  const birth = new Date(birthDate);
+  let age = today.getFullYear() - birth.getFullYear();
+  
+  // Adjust if birthday hasn't happened yet this year
+  const hasBirthdayPassed = 
+    today.getMonth() > birth.getMonth() || 
+    (today.getMonth() === birth.getMonth() && today.getDate() >= birth.getDate());
 
-Here are some ideas to get you started:
+  if (!hasBirthdayPassed) {
+    age--;
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  return age;
+};
+
+const Tiago = {
+  name: "Tiago",
+  birthDate: "1994-06-25",
+  age: getAge("1994-06-25"),
+  profession: "React and JavaScript Developer",
+  passions: ["coding", "technology", "music", "coffee"],
+  stack: {
+    frontend: ["React", "JavaScript", "HTML", "CSS"],
+    backend: ["Node.js", "Express"],
+    database: ["MongoDB", "MySQL"],
+    tools: ["Git", "VSCode"]
+  },
+  contact: {
+    email: "tiago.abreu.laibacas@example.com",
+    linkedin: "https://www.linkedin.com/in/tiago-laibacas/",
+  },
+  message: () => {
+    console.log("Thanks for visiting my profile! 🚀");
+  }
+}
+
+Tiago.message();
+console.log(`Tiago is ${Tiago.age} years old.`);
