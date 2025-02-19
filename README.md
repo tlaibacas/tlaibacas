@@ -15,8 +15,6 @@ Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for bu
   - HTML<br>
   - CSS<br>
   - Node.js<br>
-  - SQL<br>
-  - Python
 </p>
 
 ### ⚙️ Tools I Use
@@ -25,7 +23,6 @@ Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for bu
   - Node.js, Express<br>
   - MongoDB, MySQL<br>
   - Git, GitHub, VSCode<br>
-  - Figma, Adobe XD
 </p>
 
 ### 🚀 Current Project
@@ -51,7 +48,6 @@ Currently, I am working on a **project management web app** built with **React**
 <p align="center">
   - 📧 Email: [tiago.abreu.laibacas@example.com](mailto:tiago.abreu.laibacas@example.com)<br>
   - 🌐 LinkedIn: [Tiago LinkedIn](https://www.linkedin.com/in/tiago-laibacas/)<br>
-  - 🐙 GitHub: [Tiago GitHub](https://github.com/tiago-laibacas)
 </p>
 
 </div>
