@@ -10,19 +10,54 @@ Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for bu
 
 ### 🖥️ Languages I Know
 <p align="center">
-  - JavaScript<br>
-  - TypeScript<br>
-  - HTML<br>
-  - CSS<br>
-  - Node.js<br>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" /><br>
+  <span style="font-size: 12px;">JavaScript</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" alt="TypeScript" width="40" /><br>
+  <span style="font-size: 12px;">TypeScript</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML" width="40" /><br>
+  <span style="font-size: 12px;">HTML</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS" width="40" /><br>
+  <span style="font-size: 12px;">CSS</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nodedotjs.svg" alt="Node.js" width="40" /><br>
+  <span style="font-size: 12px;">Node.js</span>
 </p>
 
 ### ⚙️ Tools I Use
 <p align="center">
-  - React, Next.js<br>
-  - Node.js, Express<br>
-  - MongoDB, MySQL<br>
-  - Git, GitHub, VSCode<br>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" /><br>
+  <span style="font-size: 12px;">React</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/express.svg" alt="Express" width="40" /><br>
+  <span style="font-size: 12px;">Express</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" alt="MongoDB" width="40" /><br>
+  <span style="font-size: 12px;">MongoDB</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" alt="MySQL" width="40" /><br>
+  <span style="font-size: 12px;">MySQL</span>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" width="40" /><br>
+  <span style="font-size: 12px;">Git</span>
 </p>
 
 ### 🚀 Current Project
