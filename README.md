@@ -1,75 +1,42 @@
-```js
-class Developer {
-  constructor(name, birthDate, profession, passions, stack, contact) {
-    this.name = name;
-    this.birthDate = new Date(birthDate);
-    this.profession = profession;
-    this.passions = passions;
-    this.stack = stack;
-    this.contact = contact;
-  }
+# 👋 Hi, I'm Tiago!
 
-  // Calculates the age dynamically
-  getAge() {
-    const today = new Date();
-    let age = today.getFullYear() - this.birthDate.getFullYear();
-    const hasBirthdayPassed = today.getMonth() > this.birthDate.getMonth() ||
-      (today.getMonth() === this.birthDate.getMonth() && today.getDate() >= this.birthDate.getDate());
+![Banner](https://your-image-url.com) <!-- Replace with your image URL -->
 
-    if (!hasBirthdayPassed) {
-      age--;
-    }
+## About Me
 
-    return age;
-  }
+Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for building web applications. I specialize in both **frontend** and **backend** development, using a modern tech stack. I'm always learning and improving my skills to create high-quality projects.
 
-  // Displays stack skills dynamically
-  displayStack() {
-    console.log("🛠 My Tech Stack:");
-    for (let category in this.stack) {
-      console.log(`${category.charAt(0).toUpperCase() + category.slice(1)}:`);
-      this.stack[category].forEach(skill => {
-        console.log(`- ${skill}`);
-      });
-    }
-  }
+### 🖥️ Languages I Know
 
-  // Displays contact information
-  displayContact() {
-    console.log("\n📞 Contact Information:");
-    Object.entries(this.contact).forEach(([platform, link]) => {
-      console.log(`${platform.charAt(0).toUpperCase() + platform.slice(1)}: ${link}`);
-    });
-  }
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Node.js
+- SQL
+- Python
 
-  // Greeting message
-  greet() {
-    console.log(`Hello, my name is ${this.name} and I am a ${this.profession}!`);
-    console.log(`Thanks for visiting my profile! 🚀`);
-    console.log(`I am ${this.getAge()} years old.`);
-  }
-}
+### ⚙️ Tools I Use
 
-// Creating an instance of the Developer class
-const tiago = new Developer(
-  "Tiago",
-  "1994-06-25",
-  "React and JavaScript Developer",
-  ["coding", "technology", "music", "coffee"],
-  {
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    backend: ["Node.js", "Express"],
-    database: ["MongoDB", "MySQL"],
-    tools: ["Git", "VSCode"]
-  },
-  {
-    email: "tiago.abreu.laibacas@example.com",
-    linkedin: "https://www.linkedin.com/in/tiago-laibacas/",
-    github: "https://github.com/tiago-laibacas"
-  }
-);
+- React, Next.js
+- Node.js, Express
+- MongoDB, MySQL
+- Git, GitHub, VSCode
+- Figma, Adobe XD
 
-// Calling methods
-tiago.greet();
-tiago.displayStack();
-tiago.displayContact();
+### 🚀 Current Project
+
+Currently, I am working on a **project management web app** built with **React** and **Node.js**, where users can track tasks, collaborate with teams, and manage deadlines. The project is in the **development phase** and I’m actively working on improving the UI and adding features.
+
+### 📊 GitHub Stats
+
+#### 📅 Number of Commits
+
+To display the number of commits in a repository, we can use the GitHub API to fetch this information dynamically. Here’s a basic example:
+
+```javascript
+fetch('https://api.github.com/repos/tiago-laibacas/your-repo/commits')
+  .then(response => response.json())
+  .then(commits => {
+    console.log(`Total commits: ${commits.length}`);
+  });
