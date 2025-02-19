@@ -9,22 +9,24 @@
 Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for building web applications. I specialize in both **frontend** and **backend** development, using a modern tech stack. I'm always learning and improving my skills to create high-quality projects.
 
 ### 🖥️ Languages I Know
-
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- Node.js
-- SQL
-- Python
+<p align="center">
+  - JavaScript<br>
+  - TypeScript<br>
+  - HTML<br>
+  - CSS<br>
+  - Node.js<br>
+  - SQL<br>
+  - Python
+</p>
 
 ### ⚙️ Tools I Use
-
-- React, Next.js
-- Node.js, Express
-- MongoDB, MySQL
-- Git, GitHub, VSCode
-- Figma, Adobe XD
+<p align="center">
+  - React, Next.js<br>
+  - Node.js, Express<br>
+  - MongoDB, MySQL<br>
+  - Git, GitHub, VSCode<br>
+  - Figma, Adobe XD
+</p>
 
 ### 🚀 Current Project
 
@@ -46,8 +48,10 @@ Currently, I am working on a **project management web app** built with **React**
 
 ### 📞 Contact Me
 
-- 📧 Email: [tiago.abreu.laibacas@example.com](mailto:tiago.abreu.laibacas@example.com)
-- 🌐 LinkedIn: [Tiago LinkedIn](https://www.linkedin.com/in/tiago-laibacas/)
-- 🐙 GitHub: [Tiago GitHub](https://github.com/tiago-laibacas)
+<p align="center">
+  - 📧 Email: [tiago.abreu.laibacas@example.com](mailto:tiago.abreu.laibacas@example.com)<br>
+  - 🌐 LinkedIn: [Tiago LinkedIn](https://www.linkedin.com/in/tiago-laibacas/)<br>
+  - 🐙 GitHub: [Tiago GitHub](https://github.com/tiago-laibacas)
+</p>
 
 </div>
