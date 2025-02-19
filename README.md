@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 Hi, I'm Tiago!
 
@@ -9,7 +9,7 @@
 Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for building web applications. I specialize in both **frontend** and **backend** development, using a modern tech stack. I'm always learning and improving my skills to create high-quality projects.
 
 ### 🖥️ Languages I Know
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; text-align: center;">
+<div>
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" /><br>
     <span style="font-size: 10px;">JavaScript</span>
@@ -18,48 +18,47 @@ Hello! I'm **Tiago**, a **React and JavaScript Developer** with a passion for bu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" /><br>
     <span style="font-size: 10px;">TypeScript</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" /><br>
     <span style="font-size: 10px;">HTML</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" /><br>
     <span style="font-size: 10px;">CSS</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" /><br>
     <span style="font-size: 10px;">Node.js</span>
   </div>
 </div>
 
-
 ### ⚙️ Tools I Use
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div>
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" /><br>
     <span style="font-size: 10px;">React</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express" width="40" /><br>
     <span style="font-size: 10px;">Express</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" /><br>
     <span style="font-size: 10px;">MongoDB</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt="Git" width="40" /><br>
     <span style="font-size: 10px;">Git</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" /><br>
     <span style="font-size: 10px;">GitHub</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" /><br>
     <span style="font-size: 10px;">Postman</span>
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" /><br>
     <span style="font-size: 10px;">Bootstrap</span>
   </div>
