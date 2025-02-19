@@ -52,4 +52,3 @@ Shields.io provides a dynamic badge for the top language used in your repositori
 
 - 📧 Email: [tiago.abreu.laibacas@example.com](mailto:tiago.abreu.laibacas@example.com)
 - 🌐 LinkedIn: [Tiago LinkedIn](https://www.linkedin.com/in/tiago-laibacas/)
-- 🐙 GitHub: [Tiago GitHub](https://github.com/tiago-laibacas)
