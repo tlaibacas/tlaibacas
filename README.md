@@ -79,7 +79,7 @@
 <h3>🚀 Current Project</h3>
 <p>Currently, I am working on a <strong>project management web app</strong> built with <strong>React</strong> and <strong>Node.js</strong>...</p>
 
-<h4>📊 GitHub Stats</h4>
+<h4>📊 GitHub Stats of the current project</h4>
 <table>
   <tr>
     <td><strong>📅 Number of Commits:</strong></td>
