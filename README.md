@@ -4,7 +4,7 @@
   <h2>About Me</h2>
   <p>
     I'm a <strong>React and JavaScript Developer</strong> with a passion for building web applications.  
-    I recently graduated from the <strong>Web Development</strong> program at Iron Hack.  
+    I recently graduated from the <strong>Web Development</strong> program at Iron Hack.  <br>
     <a href="https://www.ironhack.com/" target="_blank">
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.emagister.com%2Fassets%2Fes%2Flogos%2Fcentro%2Fid%2F136150%2Fsize%2Fl.jpg&f=1&nofb=1" alt="Iron Hack" width="85">
     </a>
