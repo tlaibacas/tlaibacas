@@ -1,6 +1,5 @@
 <div align="center">
   <h1>👋 Hi, I'm Tiago!</h1>
-  <img src="https://your-image-url.com" alt="Banner" width="100%" />
 
   <h2>About Me</h2>
   <p>
