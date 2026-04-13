@@ -10,7 +10,7 @@
   <h3>🖥️ Runtime</h3>
   <table>
     <tr>
-      <td align="center">
+        <td align="center" style="background-color: white; padding: 10px; border-radius: 8px;">
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
           width="60"
@@ -179,10 +179,10 @@
   <table>
     <tr>
       <td align="center">
-        <a href="mailto:tiago.abreu.laibacas@example.com">📧 Email</a>
+        <a href="mailto:tiago.abreu.laibacas@gmail.com">📧 Email</a>
       </td>
       <td align="center">
-        <a href="https://www.linkedin.com/in/tiago-laibacas/">💼 LinkedIn</a>
+        <a href="https://www.linkedin.com/in/tlaibacas/">💼 LinkedIn</a>
       </td>
     </tr>
   </table>
