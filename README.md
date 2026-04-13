@@ -1,4 +1,3 @@
-<div align="center">
     <h1>👋 Hi, I'm Tiago!</h1>
 
     <h2>About Me</h2>
@@ -152,4 +151,3 @@
             </td>
         </tr>
     </table>
-</div>
